@@ -204,8 +204,7 @@ export default function Product({ prod }) {
                         onMouseEnter={() => setHovered(true)}
                         className="d-flex gap-2 justify-content-center"
                         style={{
-                            position: "absolute",
-                            
+                            position: "absolute",                            
                             top: 420,
                             left: 8,
                             right: 8,
